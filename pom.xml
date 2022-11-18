@@ -18,7 +18,7 @@
 	</properties>
 	<distributionManagement>
 		<repository>
-			<id>deploymentRepo2</id>
+			<id>deploymentRepo</id>
 			<url>http://192.168.1.24:8081/repository/maven-releases/</url>
 		</repository>
 	</distributionManagement>
